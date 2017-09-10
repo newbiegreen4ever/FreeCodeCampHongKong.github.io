@@ -1,0 +1,4 @@
+.event .row {
+  display: flex; 
+  flex-wrap: wrap;
+}
