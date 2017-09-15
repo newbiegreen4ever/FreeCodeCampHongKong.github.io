@@ -1,4 +1,12 @@
 .event .row {
-  display: flex; 
+  display: flex;
   flex-wrap: wrap;
+}
+
+.carousel-inner img {
+  width: 100%;
+}
+
+.FCCLogoColour {
+  color: #777;
 }

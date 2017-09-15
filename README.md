@@ -1,2 +1,2 @@
 # FreeCodeCampHongKong.github.io
-The Official Website for Free Code Camp Hong Kong
+Files of the official website for FreeCodeCamp Hong Kong. The website can be found here: https://freecodecamphongkong.github.io/
