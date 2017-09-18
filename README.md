@@ -4,9 +4,11 @@
 
 Welcome! 
 
-We are a group of Hong Kong-based coders and freeCodeCampers. We learn to code together and aspire to code for good.  Here are the files for the official website for freeCodeCamp Hong Kong. The site itself can be viewed [here](https://freecodecamphongkong.github.io/).
+We are a group of Hong Kong-based coders and freeCodeCampers. We learn to code together and aspire to code for good.  Here are the files for the official website for freeCodeCamp Hong Kong.
 
-You can also join our [Facebook group](https://zh-hk.facebook.com/groups/free.code.camp.hk/)!
+### View our site [here](https://freecodecamphongkong.github.io/)!
+
+### Or join our [Facebook group](https://zh-hk.facebook.com/groups/free.code.camp.hk/)!
 
 
 ## Guide to every Contributor
