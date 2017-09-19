@@ -2,6 +2,10 @@
   color: white;
 }
 
+.navbar-default {
+  border: none;
+}
+
 .event .row {
   display: flex;
   flex-wrap: wrap;
