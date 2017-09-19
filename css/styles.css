@@ -6,6 +6,11 @@
   border: none;
 }
 
+body {
+  /* required so that the navbar doesn't cover the top of the page */
+  padding-top: 50px;
+}
+
 .event .row {
   display: flex;
   flex-wrap: wrap;
